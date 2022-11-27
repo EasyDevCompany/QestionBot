@@ -9,6 +9,12 @@ the bot will automatically calculate your results and generate a PDF file for yo
 built-in admin panel, which helps to track statistics on it, there is a mailing list for users. This bot is aimed
 to increase clients and promote the coach
 
+<a href="https://t.me/Fast_growth_Bot">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+</a>
+
+<p></p>
+
 ![Python](https://img.shields.io/badge/python-090909?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Postgres](https://img.shields.io/badge/postgres-090909?style=for-the-badge&logo=postgresql&logoColor=blue)
 ![Docker](https://img.shields.io/badge/docker-090909?style=for-the-badge&logo=docker&logoColor=blue)
